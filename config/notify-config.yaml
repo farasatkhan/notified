@@ -1,0 +1,6 @@
+discord:
+  - id: "sub"
+    discord_channel: "channel_name"
+    discord_username: "notified"
+    discord_format: "{{data}}"
+    discord_webhook_url: ""
