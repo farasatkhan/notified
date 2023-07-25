@@ -4,7 +4,7 @@ sudo apt -y update
 sudo apt -y upgrade
 
 # bunch of new packages including gcc, g++ and make.
-sudo apt install build-essential
+sudo apt install -y build-essential
 sudo apt install -y libpcap-dev
 
 #---------Install Golang
